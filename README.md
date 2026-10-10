@@ -19,7 +19,7 @@ Demo video: [BarnesTrack workflow recording](demo/barnestrack-demo.mp4)
 - Shows a trajectory overlay, tracking-quality timeline, and occupancy map.
 - Exports trial and cohort CSV/XLSX reports, event CSV, and a reloadable project JSON file.
 
-The bundled sample state uses still frames from the three Salk clips. The original videos are intentionally not committed; download them from the [Salk AIRC take-home repository](https://github.com/salk-airc/rse-takehome-2026/tree/main/data/barnes-maze).
+The bundled sample state uses still frames from three Barnes maze clips. The original videos are intentionally not committed.
 
 ## Run Locally
 
