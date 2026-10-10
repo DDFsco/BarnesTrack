@@ -4,6 +4,8 @@ BarnesTrack is a browser-first workbench for reviewing Barnes maze videos, creat
 
 Live URL: [barnes-track.vercel.app](https://barnes-track.vercel.app/)
 
+Repository: [github.com/DDFsco/BarnesTrack](https://github.com/DDFsco/BarnesTrack)
+
 Demo video: [BarnesTrack workflow recording](demo/barnestrack-demo.mp4)
 
 ![BarnesTrack workspace showing the video review, annotation tools, and guided workflow](docs/barnestrack-workspace.png)
