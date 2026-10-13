@@ -1,6 +1,6 @@
 # BarnesTrack
 
-BarnesTrack is a browser-first workbench for reviewing Barnes maze videos, creating transparent tracking drafts, correcting uncertain frames, and exporting trial-level data. It is designed for students and core-facility staff who should not need a terminal, Python environment, account, or GPU to review a cohort.
+BarnesTrack is a browser-first workbench for reviewing Barnes maze videos, creating transparent tracking drafts, correcting uncertain frames, and exporting trial-level data. It is designed for students and core-facility staff who should not need a terminal, Python environment, account, or GPU to review a cohort. The demo video/images are provided and proved by Salk Institute of Biological Studies.
 
 Live URL: [barnes-track.vercel.app](https://barnes-track.vercel.app/)
 
